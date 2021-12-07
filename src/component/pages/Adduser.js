@@ -25,7 +25,7 @@ function Adduser() {
 
   return (
     <div>
-      <div className="container">
+      <div className="container mt-5">
         <h1 style={{ color: "#65be6c" }}>
           <u>
             <em>Add user info</em>

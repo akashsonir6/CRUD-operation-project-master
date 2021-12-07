@@ -9,7 +9,7 @@ function Home() {
   }, []);
 
   const getuser = async () => {
-    const userdata = axios
+    await axios
       .get("http://localhost:3003/users")
       .then((res) => setUser(res.data));
   };
