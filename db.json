@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Akash",
+      "lname": "Soni",
+      "email": "akashkumarsonir6@gmail.com",
+      "phone": "9148885398",
+      "id": 1
+    },
+    {
+      "name": "Shreya",
+      "lname": "Soni",
+      "email": "akashkumarsonir6@gmail.com",
+      "phone": "9148885398",
+      "id": 2
+    },
+    {
+      "name": "Anushka ",
+      "lname": "priya",
+      "email": "anu@gmail.com",
+      "phone": "7893254187",
+      "id": 3
+    },
+    {
+      "name": "Raman",
+      "lname": "shegal",
+      "email": "raman@gmail.com",
+      "phone": "91898585398",
+      "id": 4
+    }
+  ]
+}
